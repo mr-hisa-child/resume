@@ -6,7 +6,7 @@
 |---|---|
 |氏名|ひぃ|
 |生年月日|1982年|
-|最終学歴|前橋工科大学工学部情報工学科|
+|最終学歴|前橋工科大学|
 |Twitter||
 |Qiita|https://qiita.com/mr-hisa-child|
 |Twitter|@mr_hisa_child|
