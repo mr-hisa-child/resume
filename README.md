@@ -1,6 +1,6 @@
-# { name } resume
+# 職務経歴書
 
-## Sample
+## Webサイト
 
 https://github.com/mr-hisa-child/resume
 
